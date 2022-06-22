@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DemoHealthApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Log Out</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Info Search</string>
+    <string name="menu_eval">Self Evaluation</string>
+    <string name="menu_devices">Devices</string>
+
+    <string name="cough_severity">How severe is your cough? If any.</string>
+    <string name="existing_fever">Do you have a fever?</string>
+    <string name="muscle_ache_severity">How severe are your muscle aches? If any.</string>
+    <string name="more_tiredness">Are you more tired than usual?</string>
+    <string name="body_irritation">Are your nose, eyes, or inner ear irritated?</string>
+    <string name="any_congestion">Do you have any congestion?</string>
+    <string name="any_nausea">Do you have any nausea?</string>
+    <string name="elevated_hr">Has your heart rate been more elevated than usual?</string>
+    <string name="existing_chills">Have you experienced any chills?</string>
+    <string name="sore_throat">Do you have a sore throat?</string>
+    <string name="existing_headache">Are you experiencing any headaches?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="none">None</string>
+    <string name="mild">Mild</string>
+    <string name="severe">Severe</string>
+
+    <string-array name="illnesses">
+        <item>Flu</item>
+        <item>Cold</item>
+        <item>Covid-19</item>
+        <item>Heart Disease</item>
+    </string-array>
+    <string-array name="description">
+        <item>Taking medicine is recommended. However, a visit to the doctor may not be necessary depending on the severity.</item>
+        <item>Taking medicine is recommended. However, a visit to the doctor may not be necessary depending on the severity.</item>
+        <item>Self-isolation and/or hospital visit recommended.</item>
+        <item>Doctor consultation highly recommended if not already done so.</item>
+    </string-array>
+</resources>
